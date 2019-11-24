@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "ilyes",
+    "password": "password",
+    "database": "tunihack",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "ilyes",
+    "password": "password",
+    "database": "tunihack",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "ilyes",
+    "password": "password",
+    "database": "tunihack",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
